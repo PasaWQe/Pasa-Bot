@@ -40,7 +40,7 @@ global.vcardowner = ['40746352122'] //ur owner number
 global.ownername = "ঔৣ۝ale۝ঔৣ" //ur owner name
 global.ytname = "YT: enderjoker141" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Casa mia" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['40746352122']
@@ -60,7 +60,7 @@ global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
 global.gbyeimg = "https://telegra.ph/file/844812c77704231c08a90.jpg"
-global.alivemsg = "ඔබ සතුව නැති දේ ලබා ගැනීමේ පහසුම ක්‍රමය  ඇගයීමයි.. හැකි සෑම විටම තව කෙනෙක්ව ඇගයීමට උත්සහ කරන්න. එය ඔබේ මානසික සංවර්ධිත බවේ සලකුණකි..\nසංස්කරණය කළ පරිවර්තනයකි...\n@best_m_otivation\n#lifetips\n#psychology\n#questions"
+global.alivemsg = "sono vivo troie"
 
 //BOT MEDIAS
 global.thum = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
@@ -97,19 +97,19 @@ global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
+    admin: '✉️✏️ _Questa funzione è solo per gli dei!_',
+    botAdmin: '✉️✏️ _Il bot deve essere messo come ad prima!_',
+    owner: '✉️✏️ _Questa funzione è solo per il proprietario!_',
+    group: '✉️✏️ _Funzione utilizzabile solo nei gruppi!_',
+    private: '✉️✏️ _Funzionalità utilizzabile sono nella chat privata!_',
+    bot: '✉️✏️ _Questa funzione è solo per il bot_',
+    wait: '✉️✏️ _attendi gay_',
+    linkm: '📧✏️ _il link?_',
     error: '✉️🤕 ```Error!!```',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
-    banChat: 'The bot was banned in this group, please contact the owner to unban'
+    ban: 'Sei stato bannato dal proprietario se vuoi essere rimesso contatta il proprietario',
+    nsfw: 'La funzione nsfw non è stata attivata, contatta un admin per attivarla',
+    banChat: 'Il bot è stato bannato in questo gruppo, contatta il proprietario per sbannarlo'
 }
     global.limitawal = {
     premium: "Infinity",
